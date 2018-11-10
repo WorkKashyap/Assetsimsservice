@@ -1,0 +1,12 @@
+H:\SIMSServiceProject\SIMSServiceProject\Testform\obj\Debug\TestConnection.csprojResolveAssemblyReference.cache
+H:\SIMSServiceProject\SIMSServiceProject\Testform\obj\Debug\TestConnection.csproj.GenerateResource.Cache
+H:\SIMSServiceProject\SIMSServiceProject\Testform\bin\Debug\SIMSInterface.dll
+H:\SIMSServiceProject\SIMSServiceProject\Testform\bin\Debug\Google.Protobuf.dll
+H:\SIMSServiceProject\SIMSServiceProject\Testform\bin\Debug\SIMSInterface.pdb
+H:\SIMSServiceProject\SIMSServiceProject\Testform\bin\Debug\TestConnection.exe.config
+H:\SIMSServiceProject\SIMSServiceProject\Testform\bin\Debug\TestConnection.exe
+H:\SIMSServiceProject\SIMSServiceProject\Testform\bin\Debug\TestConnection.pdb
+H:\SIMSServiceProject\SIMSServiceProject\Testform\obj\Debug\Testform.Connection.resources
+H:\SIMSServiceProject\SIMSServiceProject\Testform\obj\Debug\TestConnection.Properties.Resources.resources
+H:\SIMSServiceProject\SIMSServiceProject\Testform\obj\Debug\TestConnection.exe
+H:\SIMSServiceProject\SIMSServiceProject\Testform\obj\Debug\TestConnection.pdb

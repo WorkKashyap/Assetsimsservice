@@ -1,0 +1,14 @@
+C:\Application Samples\DemoConsultancy\SIMSReportingEngine\bin\Release\SIMSReportingEngine.dll
+C:\Application Samples\DemoConsultancy\SIMSReportingEngine\bin\Release\SIMSReportingEngine.pdb
+C:\Application Samples\DemoConsultancy\SIMSReportingEngine\obj\Release\SIMSReportingEngine.csprojResolveAssemblyReference.cache
+C:\Application Samples\DemoConsultancy\SIMSReportingEngine\obj\Release\SIMSReportingEngine.dll
+C:\Application Samples\DemoConsultancy\SIMSReportingEngine\obj\Release\SIMSReportingEngine.pdb
+F:\Q_Project\SIMSService\SIMSService\SIMSReportingEngine\bin\Release\SIMSReportingEngine.dll
+F:\Q_Project\SIMSService\SIMSService\SIMSReportingEngine\bin\Release\SIMSReportingEngine.pdb
+F:\Q_Project\SIMSService\SIMSService\SIMSReportingEngine\obj\Release\SIMSReportingEngine.csprojResolveAssemblyReference.cache
+F:\Q_Project\SIMSService\SIMSService\SIMSReportingEngine\obj\Release\SIMSReportingEngine.dll
+F:\Q_Project\SIMSService\SIMSService\SIMSReportingEngine\obj\Release\SIMSReportingEngine.pdb
+H:\SIMSServiceProject\SIMSServiceProject\SIMSReportingEngine\bin\Release\SIMSReportingEngine.dll
+H:\SIMSServiceProject\SIMSServiceProject\SIMSReportingEngine\bin\Release\SIMSReportingEngine.pdb
+H:\SIMSServiceProject\SIMSServiceProject\SIMSReportingEngine\obj\Release\SIMSReportingEngine.dll
+H:\SIMSServiceProject\SIMSServiceProject\SIMSReportingEngine\obj\Release\SIMSReportingEngine.pdb

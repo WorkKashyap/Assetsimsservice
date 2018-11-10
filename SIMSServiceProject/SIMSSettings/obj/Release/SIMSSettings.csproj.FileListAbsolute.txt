@@ -1,0 +1,11 @@
+H:\SIMSServiceProject\SIMSServiceProject\SIMSSettings\obj\Release\SIMSSettings.csprojResolveAssemblyReference.cache
+H:\SIMSServiceProject\SIMSServiceProject\SIMSSettings\obj\Release\SIMSSettings.Properties.Resources.resources
+H:\SIMSServiceProject\SIMSServiceProject\SIMSSettings\obj\Release\SIMSServiceProject.SIMSConfig.resources
+H:\SIMSServiceProject\SIMSServiceProject\SIMSSettings\obj\Release\SIMSSettings.csproj.GenerateResource.Cache
+H:\SIMSServiceProject\SIMSServiceProject\SIMSSettings\bin\Release\SIMSSettings.exe.config
+H:\SIMSServiceProject\SIMSServiceProject\SIMSSettings\bin\Release\SIMSSettings.exe
+H:\SIMSServiceProject\SIMSServiceProject\SIMSSettings\bin\Release\SIMSSettings.pdb
+H:\SIMSServiceProject\SIMSServiceProject\SIMSSettings\bin\Release\SIMSInterface.dll
+H:\SIMSServiceProject\SIMSServiceProject\SIMSSettings\bin\Release\SIMSInterface.pdb
+H:\SIMSServiceProject\SIMSServiceProject\SIMSSettings\obj\Release\SIMSSettings.exe
+H:\SIMSServiceProject\SIMSServiceProject\SIMSSettings\obj\Release\SIMSSettings.pdb

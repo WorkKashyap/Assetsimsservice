@@ -1,0 +1,64 @@
+C:\Application Samples\Mindmill\Output\SIMSReportingEngine.dll
+C:\Application Samples\Mindmill\Output\SIMSReportingEngine.pdb
+C:\Application Samples\Mindmill\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.csprojResolveAssemblyReference.cache
+C:\Application Samples\Mindmill\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.dll
+C:\Application Samples\Mindmill\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.pdb
+C:\Application Samples\DurhamSample\Output\SIMSReportingEngine.dll
+C:\Application Samples\DurhamSample\Output\SIMSReportingEngine.pdb
+C:\Application Samples\DurhamSample\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.csprojResolveAssemblyReference.cache
+C:\Application Samples\DurhamSample\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.dll
+C:\Application Samples\DurhamSample\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.pdb
+C:\Application Samples\MilkBottle\Output\SIMSReportingEngine.dll
+C:\Application Samples\MilkBottle\Output\SIMSReportingEngine.pdb
+C:\Application Samples\MilkBottle\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.csprojResolveAssemblyReference.cache
+C:\Application Samples\MilkBottle\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.dll
+C:\Application Samples\MilkBottle\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.pdb
+C:\Application Samples\DemoConsultancy\Output\SIMSReportingEngine.dll
+C:\Application Samples\DemoConsultancy\Output\SIMSReportingEngine.pdb
+C:\Application Samples\DemoConsultancy\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.csprojResolveAssemblyReference.cache
+C:\Application Samples\DemoConsultancy\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.dll
+C:\Application Samples\DemoConsultancy\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.pdb
+C:\Application Samples\UCLPartners\Output\SIMSReportingEngine.dll
+C:\Application Samples\UCLPartners\Output\SIMSReportingEngine.pdb
+C:\Application Samples\UCLPartners\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.dll
+C:\Application Samples\UCLPartners\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.pdb
+C:\Application Samples\UCLPartners2\Output\SIMSReportingEngine.dll
+C:\Application Samples\UCLPartners2\Output\SIMSReportingEngine.pdb
+C:\Application Samples\UCLPartners2\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.csprojResolveAssemblyReference.cache
+C:\Application Samples\UCLPartners2\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.dll
+C:\Application Samples\UCLPartners2\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.pdb
+Z:\C\Code Samples\SIMS7\DEMO\Output\SIMSReportingEngine.dll
+Z:\C\Code Samples\SIMS7\DEMO\Output\SIMSReportingEngine.pdb
+Z:\C\Code Samples\SIMS7\DEMO\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.csprojResolveAssemblyReference.cache
+Z:\C\Code Samples\SIMS7\DEMO\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.dll
+Z:\C\Code Samples\SIMS7\DEMO\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.pdb
+C:\Application Samples\DEMO\Output\SIMSReportingEngine.dll
+C:\Application Samples\DEMO\Output\SIMSReportingEngine.pdb
+C:\Application Samples\DEMO\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.csprojResolveAssemblyReference.cache
+C:\Application Samples\DEMO\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.dll
+C:\Application Samples\DEMO\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.pdb
+C:\Users\danielmonsurate\Downloads\Asset2\Asset\Output\SIMSReportingEngine.dll
+C:\Users\danielmonsurate\Downloads\Asset2\Asset\Output\SIMSReportingEngine.pdb
+C:\Users\danielmonsurate\Downloads\Asset2\Asset\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.csprojResolveAssemblyReference.cache
+C:\Users\danielmonsurate\Downloads\Asset2\Asset\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.csproj.CoreCompileInputs.cache
+C:\Users\danielmonsurate\Downloads\Asset2\Asset\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.dll
+C:\Users\danielmonsurate\Downloads\Asset2\Asset\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.pdb
+F:\Q_Project\SIMSService\SIMSService\Output\SIMSReportingEngine.dll
+F:\Q_Project\SIMSService\SIMSService\Output\SIMSReportingEngine.pdb
+F:\Q_Project\SIMSService\SIMSService\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.dll
+F:\Q_Project\SIMSService\SIMSService\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.pdb
+F:\Q_Project\SIMSService\SIMSService\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.csprojResolveAssemblyReference.cache
+F:\Q_Project\windowtestservice\WindowsService1\Output\SIMSReportingEngine.dll
+F:\Q_Project\windowtestservice\WindowsService1\Output\SIMSReportingEngine.pdb
+F:\Q_Project\windowtestservice\WindowsService1\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.csprojResolveAssemblyReference.cache
+F:\Q_Project\windowtestservice\WindowsService1\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.dll
+F:\Q_Project\windowtestservice\WindowsService1\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.pdb
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\Output\SIMSReportingEngine.dll
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\Output\SIMSReportingEngine.pdb
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.dll
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.pdb
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.csprojResolveAssemblyReference.cache
+H:\SIMSServiceProject\SIMSServiceProject\Output\SIMSReportingEngine.dll
+H:\SIMSServiceProject\SIMSServiceProject\Output\SIMSReportingEngine.pdb
+H:\SIMSServiceProject\SIMSServiceProject\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.dll
+H:\SIMSServiceProject\SIMSServiceProject\SIMSReportingEngine\obj\Debug\SIMSReportingEngine.pdb

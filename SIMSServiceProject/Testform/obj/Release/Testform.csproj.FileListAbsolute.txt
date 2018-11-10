@@ -1,0 +1,13 @@
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\Testform\bin\Release\Testform.exe.config
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\Testform\bin\Release\Testform.exe
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\Testform\bin\Release\Testform.pdb
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\Testform\bin\Release\MySql.Data.dll
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\Testform\bin\Release\SIMSInterface.dll
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\Testform\bin\Release\Google.Protobuf.dll
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\Testform\bin\Release\SIMSInterface.pdb
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\Testform\obj\Release\Testform.csprojResolveAssemblyReference.cache
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\Testform\obj\Release\Testform.Form1.resources
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\Testform\obj\Release\Testform.Properties.Resources.resources
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\Testform\obj\Release\Testform.csproj.GenerateResource.Cache
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\Testform\obj\Release\Testform.exe
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\Testform\obj\Release\Testform.pdb

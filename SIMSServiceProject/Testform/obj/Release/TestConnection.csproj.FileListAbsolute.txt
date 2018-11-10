@@ -1,0 +1,13 @@
+H:\SIMSServiceProject\SIMSServiceProject\Testform\bin\Release\TestConnection.exe.config
+H:\SIMSServiceProject\SIMSServiceProject\Testform\bin\Release\TestConnection.exe
+H:\SIMSServiceProject\SIMSServiceProject\Testform\bin\Release\TestConnection.pdb
+H:\SIMSServiceProject\SIMSServiceProject\Testform\bin\Release\MySql.Data.dll
+H:\SIMSServiceProject\SIMSServiceProject\Testform\bin\Release\SIMSInterface.dll
+H:\SIMSServiceProject\SIMSServiceProject\Testform\bin\Release\Google.Protobuf.dll
+H:\SIMSServiceProject\SIMSServiceProject\Testform\bin\Release\SIMSInterface.pdb
+H:\SIMSServiceProject\SIMSServiceProject\Testform\obj\Release\TestConnection.csprojResolveAssemblyReference.cache
+H:\SIMSServiceProject\SIMSServiceProject\Testform\obj\Release\Testform.Connection.resources
+H:\SIMSServiceProject\SIMSServiceProject\Testform\obj\Release\TestConnection.Properties.Resources.resources
+H:\SIMSServiceProject\SIMSServiceProject\Testform\obj\Release\TestConnection.csproj.GenerateResource.Cache
+H:\SIMSServiceProject\SIMSServiceProject\Testform\obj\Release\TestConnection.exe
+H:\SIMSServiceProject\SIMSServiceProject\Testform\obj\Release\TestConnection.pdb

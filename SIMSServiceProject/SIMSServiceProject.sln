@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIMSInterface", "SIMSInterface\SIMSInterface.csproj", "{6F790F4A-160E-4422-8A68-ADD2ED1A1059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIMSReportingEngine", "SIMSReportingEngine\SIMSReportingEngine.csproj", "{0FC9155E-FEF6-49D0-B499-58E8F788AAAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIMSServices", "SIMSCalling\SIMSServices.csproj", "{FCC29955-7EF4-4BD8-8D6F-BAA58655AE89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConnection", "Testform\TestConnection.csproj", "{2873B07B-A4D1-4979-8902-C719D12F30EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIMSSettings", "SIMSSettings\SIMSSettings.csproj", "{D1133A59-39A8-4A02-A420-0C0F4851D49A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F790F4A-160E-4422-8A68-ADD2ED1A1059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F790F4A-160E-4422-8A68-ADD2ED1A1059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F790F4A-160E-4422-8A68-ADD2ED1A1059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F790F4A-160E-4422-8A68-ADD2ED1A1059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC9155E-FEF6-49D0-B499-58E8F788AAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC9155E-FEF6-49D0-B499-58E8F788AAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC9155E-FEF6-49D0-B499-58E8F788AAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC9155E-FEF6-49D0-B499-58E8F788AAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC29955-7EF4-4BD8-8D6F-BAA58655AE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC29955-7EF4-4BD8-8D6F-BAA58655AE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC29955-7EF4-4BD8-8D6F-BAA58655AE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC29955-7EF4-4BD8-8D6F-BAA58655AE89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2873B07B-A4D1-4979-8902-C719D12F30EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2873B07B-A4D1-4979-8902-C719D12F30EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2873B07B-A4D1-4979-8902-C719D12F30EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2873B07B-A4D1-4979-8902-C719D12F30EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1133A59-39A8-4A02-A420-0C0F4851D49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1133A59-39A8-4A02-A420-0C0F4851D49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1133A59-39A8-4A02-A420-0C0F4851D49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1133A59-39A8-4A02-A420-0C0F4851D49A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

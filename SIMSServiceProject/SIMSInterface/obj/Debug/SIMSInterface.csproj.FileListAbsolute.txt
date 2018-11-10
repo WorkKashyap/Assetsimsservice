@@ -1,0 +1,21 @@
+C:\Application Samples\Asset\SIMSInterface\bin\Debug\SIMSInterface.dll
+C:\Application Samples\Asset\SIMSInterface\bin\Debug\SIMSInterface.pdb
+C:\Application Samples\Asset\SIMSInterface\obj\Debug\SIMSInterface.csprojResolveAssemblyReference.cache
+C:\Application Samples\Asset\SIMSInterface\obj\Debug\SIMSInterface.csproj.CoreCompileInputs.cache
+C:\Application Samples\Asset\SIMSInterface\obj\Debug\SIMSInterface.dll
+C:\Application Samples\Asset\SIMSInterface\obj\Debug\SIMSInterface.pdb
+C:\Users\danielmonsurate\Downloads\Asset2\Asset\SIMSInterface\bin\Debug\SIMSInterface.dll
+C:\Users\danielmonsurate\Downloads\Asset2\Asset\SIMSInterface\bin\Debug\SIMSInterface.pdb
+C:\Users\danielmonsurate\Downloads\Asset2\Asset\SIMSInterface\obj\Debug\SIMSInterface.csprojResolveAssemblyReference.cache
+C:\Users\danielmonsurate\Downloads\Asset2\Asset\SIMSInterface\obj\Debug\SIMSInterface.csproj.CoreCompileInputs.cache
+C:\Users\danielmonsurate\Downloads\Asset2\Asset\SIMSInterface\obj\Debug\SIMSInterface.dll
+C:\Users\danielmonsurate\Downloads\Asset2\Asset\SIMSInterface\obj\Debug\SIMSInterface.pdb
+F:\Q_Project\SIMS\Asset2\Asset2\Asset\SIMSInterface\obj\Debug\SIMSInterface.csprojResolveAssemblyReference.cache
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\SIMSInterface\bin\Debug\SIMSInterface.dll
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\SIMSInterface\bin\Debug\SIMSInterface.pdb
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\SIMSInterface\obj\Debug\SIMSInterface.dll
+F:\Q_Project\SIMSServiceProject\SIMSServiceProject\SIMSInterface\obj\Debug\SIMSInterface.pdb
+H:\SIMSServiceProject\SIMSServiceProject\SIMSInterface\bin\Debug\SIMSInterface.dll
+H:\SIMSServiceProject\SIMSServiceProject\SIMSInterface\bin\Debug\SIMSInterface.pdb
+H:\SIMSServiceProject\SIMSServiceProject\SIMSInterface\obj\Debug\SIMSInterface.dll
+H:\SIMSServiceProject\SIMSServiceProject\SIMSInterface\obj\Debug\SIMSInterface.pdb
